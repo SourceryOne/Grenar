@@ -1,1 +1,16 @@
-This is the reademe file... more coming...
+Here is my take on the Mutable Instruments Branches. The Grenar is a throughhole one pcb version of the Bernoulli gate from MI. 
+This one just as the Grids Clone "Gris" uses an Arduino Nano as the brains. 
+I had a bunch of troubles doing this module which I will tell you all about in this video. 
+You can find this module in my Tindie store along with previous modules:
+https://www.tindie.com/stores/Sourcery/
+
+The full video about this module: https://youtu.be/t9voys-Swdw
+
+Soldering video in real time if you want to solder it together with someone: https://youtu.be/qQuWpthCDKk
+
+Check the Gris video at this time marked link for how to get the hex file onto the Arduino Nano:
+https://www.youtube.com/watch?v=PITVIi8tflk&t=1585s
+
+Here is a link to some cheap Arduino nano clones that worked for me:
+https://s.click.aliexpress.com/e/_DEGcpIN
+
