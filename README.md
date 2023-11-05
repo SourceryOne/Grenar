@@ -8,8 +8,8 @@ The full video about this module: https://youtu.be/t9voys-Swdw
 
 Soldering video in real time if you want to solder it together with someone: https://youtu.be/qQuWpthCDKk
 
-Check the Gris video at this time marked link for how to get the hex file onto the Arduino Nano:
-https://www.youtube.com/watch?v=PITVIi8tflk&t=1585s
+Here is a quick video showing you how to get the .HEX file onto the Arduino Nano:
+https://youtu.be/VhN1RtcyU-E
 
 Here is a link to some cheap Arduino nano clones that worked for me:
 https://s.click.aliexpress.com/e/_DEGcpIN
