@@ -10,6 +10,7 @@ Soldering video in real time if you want to solder it together with someone: htt
 
 Here is a quick video showing you how to get the .HEX file onto the Arduino Nano:
 https://youtu.be/VhN1RtcyU-E
+IMPORTANT TPCarlson (Twig) found a "bug" between the hex file and some Arduino nano clones with the old bootloader which messes up the first channel, if ch1 misbehaves use the second HEX file on this page for old bootloaders.
 
 Here is a link to some cheap Arduino nano clones that worked for me:
 https://s.click.aliexpress.com/e/_DEGcpIN
