@@ -22,6 +22,7 @@ IMPORTANT TPCarlson (Twig) found a "bug" between the hex file and some Arduino n
 Here is a link to some cheap Arduino nano clones that worked for me (used to be new bootloader, but last batch was old, see above):
 [https://s.click.aliexpress.com/e/_DEGcpIN](https://s.click.aliexpress.com/e/_DFZNe2X)
 
+[Link to Grenar on ModularGrid](https://modulargrid.com/e/miaw-grenar)
 
 
 
