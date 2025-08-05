@@ -6,7 +6,7 @@ https://www.tindie.com/stores/Sourcery/
 
 The full video about this module: https://youtu.be/t9voys-Swdw
 
-NEW Soldering video in real time if you want to solder it together with someone: (Coming)...
+NEW Soldering video in real time if you want to solder it together with someone: https://youtu.be/QywBFNgQCy0
 
 OLD VERSION WITH TRIMPOTS: Soldering video in real time if you want to solder it together with someone: https://youtu.be/qQuWpthCDKk
 
@@ -22,10 +22,8 @@ IMPORTANT TPCarlson (Twig) found a "bug" between the hex file and some Arduino n
 Here is a link to some cheap Arduino nano clones that worked for me (used to be new bootloader, but last batch was old, see above):
 [https://s.click.aliexpress.com/e/_DEGcpIN](https://s.click.aliexpress.com/e/_DFZNe2X)
 
+
 [Link to Grenar on ModularGrid](https://modulargrid.com/e/miaw-grenar)
-
-
-
 
 
 I also made an alternate front panel for another firmware called Twigs, which converts the Branches/Grenar into a CV Factor and CV Swing module. Basically a divider/multiplier and a Swing module.
