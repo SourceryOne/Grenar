@@ -13,7 +13,7 @@ OLD VERSION WITH TRIMPOTS: Soldering video in real time if you want to solder it
 Here is a quick video showing you how to get the .HEX file onto the Arduino Nano:
 https://youtu.be/VhN1RtcyU-E
 
-[Here is a link to the iBOM for direct viewing without dowloading it. New version 1.3 without the Trimpots!](https://htmlpreview.github.io/?https://github.com/SourceryOne/Beaks/blob/main/iBOM_MiaW_Grenar_v1.3.html)
+[Here is a link to the iBOM for direct viewing without dowloading it. New version 1.3 without the Trimpots!](https://htmlpreview.github.io/?https://github.com/SourceryOne/Grenar/blob/main/iBOM_MiaW_Grenar_v1.3.html)
 
 
 IMPORTANT TPCarlson (Twig) found a "bug" between the hex file and some Arduino nano clones with the old bootloader which messes up the first channel, if ch1 misbehaves use the second HEX file on this page for old bootloaders.
